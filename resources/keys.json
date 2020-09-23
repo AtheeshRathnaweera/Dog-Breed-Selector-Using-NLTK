@@ -1,0 +1,87 @@
+{
+  "keys": [
+    {
+      "dog": "german shepherd",
+      "keywords": [
+        "german shepherd",
+        "large house",
+        "playfull",
+        "black pup",
+        "male",
+        "courageous",
+        "confident",
+        "smart",
+        "kids",
+        "loyal",
+        "trainable",
+        "all purpose worker",
+        "noble character and high intelligence",
+        "ability to learn commands for many tasks"
+      ]
+    },
+    {
+      "dog": "bulldog",
+      "keywords": [
+        "bulldog",
+        "bull dog",
+        "calm",
+        "courageous",
+        "thick-set, low-slung, well-muscled bruiser",
+        "muscular",
+        "small ears",
+        "undershot jaw",
+        "adapt well"
+      ]
+    },
+    {
+      "dog": "doberman",
+      "keywords": [
+        "doberman",
+        "pinscher",
+        "fearless",
+        "alert",
+        "loyal",
+        "muscular",
+        "fast",
+        "powerful",
+        "standing between 24 to 28 inches",
+        "coat of black, blue, red, or fawn, with rust markings"
+      ]
+    },
+    {
+      "dog": "beagle",
+      "keywords": [
+        "beagle",
+        "friendly",
+        "curious",
+        "merry",
+        "happy",
+        "funny",
+        "cute",
+        "easygoing",
+        "company",
+        "lemon, red and white, and tricolor",
+        "adorable face",
+        "big brown or hazel eyes"
+      ]
+    },
+    {
+      "dog": "dalmation",
+      "keywords": [
+        "dalmation",
+        "spotted coat",
+        "eye-catching spots of black",
+        "delightful",
+        "19 and 23",
+        "powerful hindquarters",
+        "dependable watchdogs",
+        "loyal",
+        "bright",
+        "loving house dogs",
+        "active athletes",
+        "great stamina",
+        "partner for runners and hikers"
+      ]
+    }
+  ]
+}
