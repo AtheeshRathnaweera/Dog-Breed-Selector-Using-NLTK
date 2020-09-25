@@ -40,7 +40,11 @@ highest_count = 0
 suggested_dog_names = []
 for key in keys:
     words_amount = key["words_amount"]
-    if highest_count <= words_amount:
+    if highest_count < words_amount:
+        highest_count = words_amount
+        suggested_dog_names.clear()
+        suggested_dog_names.append(key["dog"])
+    elif highest_count == words_amount:
         highest_count = words_amount
         suggested_dog_names.append(key["dog"])
 
